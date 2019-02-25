@@ -1,6 +1,6 @@
-title: Belkirk College of Engineering
-short_title: Belkirk
-description: Belkirk Demo Site for Forestry.io
+title: Domes for Homes 2019
+short_title: D4H
+description: POC for Domes for Homes 2019
 baseurl:
 permalink: "/:path/"
 defaults:
